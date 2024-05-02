@@ -41,6 +41,3 @@ Please give the COM number corresponding to your Serial port or USB to Serial Co
 * import to Arduino UNO
 
 
-## YouTube Video
-
-https://youtube.com/shorts/ETNypV6c6Ps?feature=share
