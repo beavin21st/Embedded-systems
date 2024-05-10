@@ -5,28 +5,9 @@ You can use your Hand gesture to control Home appliances.
 
 ## Prerequisits and Installation
 
-* Python 2.7
-
-* OpenCV
+* Arduino IDLE
 ```
-pip install opencv-python
-```
-* mediapipe
-```
-pip install mediapipe
-```
-* pyFirmata
-```
-pip install pyFirmata
-```
-## Connection:
-
-* Python serial port communication:
-
-Please give the COM number corresponding to your Serial port or USB to Serial Converter instead of COM24
-
-(https://user-images.githubusercontent.com/68391321/220049017-f361fc64-3c18-47c4-9224-a6f773efb863.png)
-
+Include LiquidCrystal
 
 
 ## Hardware: Arduino UNO, 5V Relay Module
